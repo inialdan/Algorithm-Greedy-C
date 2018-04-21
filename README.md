@@ -28,4 +28,4 @@ And you have to include my name and link it to this page :D
  + [Facebook](http://www.facebook.com/inialdan)
  + [Twitter](http://www.twitter.com/inialdan)
  + [LinkedIn](https://www.linkedin.com/in/aldan-rizki-santosa-5819b8150/)
- + [Email]projectarizki@gmail.com
+ + projectarizki@gmail.com
